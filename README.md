@@ -64,5 +64,31 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Bit2Me is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://bit2me.com/
+Bit2Me is a Spanish fintech founded in 2014 that offers a comprehensive cryptocurrency platform, including a regulated exchange, wallet services, merchant payments, and a public RESTful API for developers. The company provides tools for buying, selling, earning, and managing crypto assets, supports MiCA licensing, and serves individuals, businesses, and institutions across Europe. Its API enables access to wallets, trading, payments, custody, and compliance features, documented at https://api.bit2me.com/docs.
+
+**Areas:** Company · Cryptocurrency · Fintech · Exchange · Payments · API
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://bit2me.com/)
+- [Documentation](https://api.bit2me.com/docs)
+- [Getting started](https://api.bit2me.com/docs/quickstart)
+- [API reference](https://api.bit2me.com/docs)
+- [Sign up](https://app.bit2me.com/register)
+- [Support](https://support.bit2me.com)
+- [Changelog](https://api.bit2me.com/docs/wallet/changelog)
+- [Blog](https://blog.bit2me.com)
+- [Security](https://bit2me.com/security)
+- [Compliance](https://bit2me.safebase.us/)
+- [Terms of service](https://legal.bit2me.com/en/support/solutions/articles/35000292850-general-terms-and-conditions-for-bit2me-services)
+- [Privacy policy](https://legal.bit2me.com/en/support/solutions/articles/35000291559-privacy-policy)
+- [GitHub](https://github.com/bit2me)
+- [Status](https://status.bit2me.com)
+
+**APIs profiled:** 16
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/bit2me/](https://apis.io/providers/bit2me/).
