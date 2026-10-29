@@ -68,6 +68,77 @@ Bit2Me is a Spanish fintech founded in 2014 that offers a comprehensive cryptocu
 
 **Areas:** Company · Cryptocurrency · Fintech · Exchange · Payments · API
 
+## Bit2Me on APIs.io
+
+Everything profiled for Bit2Me is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/bit2me/](https://apis.io/providers/bit2me/)** — or go straight to one of the APIs or properties below.
+
+### APIs (16)
+
+- [Bit2Me Account API](https://apis.io/apis/bit2me/bit2me-account-api/) — The Account API from Bit2Me — 8 operation(s) for account.
+- [Bit2Me Account Deprecated Methods API](https://apis.io/apis/bit2me/bit2me-account-deprecated-methods-api/) — The Account Deprecated Methods API from Bit2Me — 5 operation(s) for account deprecated methods.
+- [Bit2Me Auth API](https://apis.io/apis/bit2me/bit2me-auth-api/) — The Auth API from Bit2Me — 5 operation(s) for auth.
+- [Bit2Me Blockchain Manager API](https://apis.io/apis/bit2me/bit2me-blockchain-manager-api/) — The Blockchain Manager API from Bit2Me — 7 operation(s) for blockchain manager.
+- [Bit2Me Brokerage API](https://apis.io/apis/bit2me/bit2me-brokerage-api/) — The Brokerage API from Bit2Me — 4 operation(s) for brokerage.
+- [Bit2Me Compliance API](https://apis.io/apis/bit2me/bit2me-compliance-api/) — The Compliance API from Bit2Me — 3 operation(s) for compliance.
+- [Bit2Me Currency API](https://apis.io/apis/bit2me/bit2me-currency-api/) — The Currency API from Bit2Me — 9 operation(s) for currency.
+- [Bit2Me Earn API](https://apis.io/apis/bit2me/bit2me-earn-api/) — The Earn API from Bit2Me — 11 operation(s) for earn.
+- [Bit2Me Loan API](https://apis.io/apis/bit2me/bit2me-loan-api/) — The Loan API from Bit2Me — 8 operation(s) for loan.
+- [Bit2Me Misc API](https://apis.io/apis/bit2me/bit2me-misc-api/) — The Misc API from Bit2Me — 1 operation(s) for misc.
+- [Bit2Me Pay API](https://apis.io/apis/bit2me/bit2me-pay-api/) — The Pay API from Bit2Me — 5 operation(s) for pay.
+- [Bit2Me Teller API](https://apis.io/apis/bit2me/bit2me-teller-api/) — The Teller API from Bit2Me — 6 operation(s) for teller.
+- [Bit2Me Trading API](https://apis.io/apis/bit2me/bit2me-trading-api/) — The Trading API from Bit2Me — 15 operation(s) for trading.
+- [Bit2Me Verifier API](https://apis.io/apis/bit2me/bit2me-verifier-api/) — The Verifier API from Bit2Me — 2 operation(s) for verifier.
+- [Bit2Me Verifier Deprecated Methods API](https://apis.io/apis/bit2me/bit2me-verifier-deprecated-methods-api/) — The Verifier Deprecated Methods API from Bit2Me — 2 operation(s) for verifier deprecated methods.
+- [Bit2Me Wallet API](https://apis.io/apis/bit2me/bit2me-wallet-api/) — The Wallet API from Bit2Me — 8 operation(s) for wallet.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Bit2Me Agentic Access](https://apis.io/agentic-access/bit2me/bit2me-agentic-access/)
+
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Bit2Me Openapi Overlay](https://apis.io/overlays/bit2me/bit2me-openapi-overlay/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Bit2Me API Rules](https://apis.io/rules/bit2me/bit2me-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Bit2Me Authentication](https://apis.io/security/bit2me/bit2me-authentication/)
+- [Bit2Me Domain Security](https://apis.io/security/bit2me/bit2me-domain-security/)
+- [Bit2Me Trust Center](https://apis.io/security/bit2me/bit2me-trust-center/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Bit2Me Scopes](https://apis.io/scopes/bit2me/bit2me-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Bit2Me Plans Pricing](https://apis.io/plans/bit2me/bit2me-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Bit2Me Rate Limits](https://apis.io/rate-limits/bit2me/bit2me-rate-limits/)
+
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
@@ -87,8 +158,57 @@ Links to the company's own pages. This repository publishes no copy of their spe
 - [GitHub](https://github.com/bit2me)
 - [Status](https://status.bit2me.com)
 
-**APIs profiled:** 16
-
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/bit2me/](https://apis.io/providers/bit2me/).
+**Kin Score 64.0** — strong · rubric 0.25.0 · scored 2026-10-28
+
+| Facet | Score |
+|---|---|
+| Discoverability | 67.9 |
+| Contract quality | 45.2 |
+| Contract governance | 79.1 |
+| Operational transparency | 75.8 |
+| Developer ergonomics | 70.7 |
+| Access clarity | 50.0 |
+
+**Agent readiness 57.0** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | documented (partial credit) |
+| Error Semantics | documented (partial credit) |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | verified |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | mostly |
+
+**Regulatory alignment 35.7** — Payments
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/bit2me/](https://apis.io/providers/bit2me/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Bit2Me: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/bit2me/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
